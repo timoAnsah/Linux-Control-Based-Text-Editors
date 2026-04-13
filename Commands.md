@@ -1,17 +1,25 @@
-What I learned
+## Goal
+Practise navigating the Linux filesystem, accessing Windows-mounted directories, and editing text files using the `vi` editor.
 
-The goal was to practise navigating files and using `vi` to open and edit text files. 
-I used `cd /mnt/c/Users/breez/Documents` to change the directory to the documents folder path. 
-`ls` to list the contents of the Documents folder 
-`vi` to edit the file named `ubuntu.txt`
+I navigated to my windows Document folder from Ubuntu using `cd /mnt/c/Users/breez/Documents`
+
+I listed the contents of the directory using `ls`
 
 <img width="1837" height="327" alt="Screenshot 2026-04-13 111054" src="https://github.com/user-attachments/assets/f4ef43e8-140c-492f-a526-395d19f47507" />
 
-This is the `ubuntu.txt` file opened within the vi editor
+The goal was to practise navigating files and using `vi` to open and edit text files. 
+I used  to change the directory to the documents folder path. 
+`ls` to list the contents of the Documents folder 
+`vi` to edit the file named `ubuntu.txt`
+
+I opened & edited the file using `vi` & some of the commands i learnt in the readme
+
+I inserted the poen IF by Rudyard Kipling to practise editing text in insert mode, vavigating lines & saving changes.
+
+I saved & exited the editor using `:wq`
 
 <img width="1370" height="1067" alt="Screenshot 2026-04-13 115736" src="https://github.com/user-attachments/assets/1c0d53e6-0826-4596-92f0-6a080359ca63" />
 
-Editied the file in the vi editor, at the end i saved and quit `:wq` command 
 
 <img width="517" height="1075" alt="Screenshot 2026-04-13 124131" src="https://github.com/user-attachments/assets/46a07773-b5ef-4c7b-b492-2c53b029270d" />
 
