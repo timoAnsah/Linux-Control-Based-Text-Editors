@@ -15,10 +15,11 @@ Insert mode: used to type and edit file contents.
 Last line mode: used for commands like save, quit, and search.
 
 Switching modes
-Press i to enter insert mode.
-Press Esc to return to command mode.
+i =  enter insert mode.
+Esc = return to command mode.
 
-Basic navigation
+## Navigation
+
 Arrow keys work.
 
 h = left
@@ -29,7 +30,16 @@ k = up
 
 l = right
 
-Basic editing commands
+G - go to the bottom
+
+gg - go to the top
+
+O = go to the start of the line
+
+$ = go to the end of the line
+
+## Editing commands
+
 x = delete a character.
 
 dd = delete the entire line.
@@ -38,13 +48,19 @@ yy = copy a line.
 
 p = paste below the current line.
 
-Scrolling
+u = undo
+
+ctrl + r = redo
+
+## Scrolling
+
 Ctrl + u = scroll up.
 
 Ctrl + d = scroll down.
 
 Last line commands
-Press : to enter last line mode, then use:
+
+: to enter last line mode, then use:
 
 :w = save.
 
@@ -56,6 +72,7 @@ Press : to enter last line mode, then use:
 
 :q! = quit without saving changes.
 
-Searching
+## Search
+
 /text = search for text.
 n = jump to the next match.
