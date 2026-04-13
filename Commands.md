@@ -26,3 +26,12 @@ I saved & exited the editor using `:wq`
 The changes took effect in the text file
 
 <img width="360" height="722" alt="Screenshot 2026-04-13 124836" src="https://github.com/user-attachments/assets/4d269ae9-2e1a-44ca-a1af-a88730b7c063" />
+
+
+## What i Learned
+
+How Linux mounts Windows drives under `/mnt/c/Users/...` and how to access files stored there.
+
+How to move around the filesystem using `cd` & `ls`.
+
+How to open, edit, and save files using the vi editor, including switching between insert and command modes.
