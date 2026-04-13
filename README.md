@@ -22,18 +22,25 @@ Basic navigation
 Arrow keys work.
 
 h = left
+
 j = down
+
 k = up
+
 l = right
 
 Basic editing commands
 x = delete a character.
+
 dd = delete the entire line.
+
 yy = copy a line.
+
 p = paste below the current line.
 
 Scrolling
 Ctrl + u = scroll up.
+
 Ctrl + d = scroll down.
 
 Last line commands
