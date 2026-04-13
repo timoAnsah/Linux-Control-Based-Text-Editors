@@ -11,7 +11,10 @@ This is the `ubuntu.txt` file opened within the vi editor
 
 <img width="1370" height="1067" alt="Screenshot 2026-04-13 115736" src="https://github.com/user-attachments/assets/1c0d53e6-0826-4596-92f0-6a080359ca63" />
 
-Editied the file in the vi editor and saved it using `:w` command
+Editied the file in the vi editor, at the end i saved and quit `:wq` command 
 
-<img width="520" height="1075" alt="Screenshot 2026-04-13 124131" src="https://github.com/user-attachments/assets/ef273736-e992-41eb-9f51-922ded2b229c" />
+<img width="517" height="1075" alt="Screenshot 2026-04-13 124131" src="https://github.com/user-attachments/assets/46a07773-b5ef-4c7b-b492-2c53b029270d" />
 
+The changes took effect in the text file
+
+<img width="360" height="722" alt="Screenshot 2026-04-13 124836" src="https://github.com/user-attachments/assets/4d269ae9-2e1a-44ca-a1af-a88730b7c063" />
