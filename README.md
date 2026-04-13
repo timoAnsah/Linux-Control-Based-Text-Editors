@@ -47,9 +47,13 @@ Last line commands
 Press : to enter last line mode, then use:
 
 :w = save.
+
 :w filename = save as a new file.
+
 :q = quit without saving.
+
 :wq = save and quit.
+
 :q! = quit without saving changes.
 
 Searching
