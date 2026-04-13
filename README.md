@@ -1,9 +1,7 @@
 # Linux-Control-Based-Text-Editors
-Editing files with VI
 
-Here’s a cleaner, organized version of your notes on VI editor basics:
+## Editing files with VI
 
-## VI editor overview
 vi is a text editor available by default on many Linux systems.
 It is useful when working on remote Linux servers, especially for editing config files.
 
